@@ -1,3 +1,7 @@
+<h1 align="center" style="font-family: 'Brush Script MT', cursive; font-size: 48px;">Hi, I am Sai Chethan</h1>
+<p align="center" style="font-family: 'Brush Script MT', cursive; font-size: 24px;">A passionate backend dev</p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on **Spring** and **Spring Boot**<br>
 👯 I’m looking to collaborate on **Backend Development**<br>
