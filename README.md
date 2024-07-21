@@ -3,11 +3,11 @@
 
 <div align="center">
 # 💫 About Me:
-🔭 I’m currently working on **Spring** and **Spring Boot**<br>
-👯 I’m looking to collaborate on **Backend Development**<br>
-🤝 I’m looking for help with **DevOps**<br>
-🌱 I’m currently learning **Data Structures and Algorithms (DSA)**<br>
-💬 Ask me about **Backend Development**<br>
+🔭 I’m currently working on <strong>Spring and Spring Boot</strong><br>
+👯 I’m looking to collaborate on <strong>Backend Development</strong><br>
+🤝 I’m looking for help with <strong> DevOps </strong><br>
+🌱 I’m currently learning <strong>Data Structures and Algorithms (DSA)</strong><br>
+💬 Ask me about <strong>Backend Development</strong><br>
 </div>
 
 
