@@ -3,6 +3,7 @@
 
 <div align="center">
 <strong> 💫 About Me: </strong>
+  <br>
 🔭 I’m currently working on <strong>Spring and Spring Boot</strong><br>
 👯 I’m looking to collaborate on <strong>Backend Development</strong><br>
 🤝 I’m looking for help with <strong> DevOps </strong><br>
