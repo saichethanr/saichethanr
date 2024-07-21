@@ -1,16 +1,18 @@
 <h1 align="center" style="font-family: 'monospace', cursive; font-size: 48px;">Hi, I am Sai Chethan</h1>
 <p align="center" style="font-family: 'Brush Script MT', cursive; font-size: 24px;">A passionate backend dev</p>
 
-
+<div align="center">
 # 💫 About Me:
 🔭 I’m currently working on **Spring** and **Spring Boot**<br>
 👯 I’m looking to collaborate on **Backend Development**<br>
 🤝 I’m looking for help with **DevOps**<br>
 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**<br>
 💬 Ask me about **Backend Development**<br>
+</div>
+
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/saichethan)
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/saichethan)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
