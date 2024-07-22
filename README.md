@@ -19,7 +19,7 @@
   </a>
 </div>
 <div align="center">
-<h1># 💻 Tech Stack:</h1> 
+<h1> 💻 Tech Stack:</h1> 
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
