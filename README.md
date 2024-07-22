@@ -10,15 +10,17 @@
 🌱 I’m currently learning <strong>Data Structures and Algorithms (DSA)</strong><br>
 💬 Ask me about <strong>Backend Development</strong><br>
 </div>
-
+<div align="center">
 ## 🌐 Socials:
+</div>
 <div align="center">
   <a href="https://x.com/saichethan">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
 </div>
-
+<div align="center">
 # 💻 Tech Stack:
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
