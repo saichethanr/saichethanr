@@ -4,11 +4,13 @@
 <div align="center">
 <h1> <strong> 💫 About Me: </strong></h1> 
   <br>
+<div>
 🔭 I’m currently working on <strong>Spring and Spring Boot</strong><br>
 👯 I’m looking to collaborate on <strong>Backend Development</strong><br>
 🤝 I’m looking for help with <strong> DevOps </strong><br>
 🌱 I’m currently learning <strong>Data Structures and Algorithms (DSA)</strong><br>
 💬 Ask me about <strong>Backend Development</strong><br>
+</div>
 </div>
 <div align="center">
 <h1>🌐 Socials:</h1> 
