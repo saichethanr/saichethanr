@@ -2,7 +2,7 @@
 <p align="center" style="font-family: 'Brush Script MT', cursive; font-size: 24px;">A passionate backend dev</p>
 
 <div align="center">
-<strong> 💫 About Me: </strong>
+<h1> <strong> 💫 About Me: </strong></h1> 
   <br>
 🔭 I’m currently working on <strong>Spring and Spring Boot</strong><br>
 👯 I’m looking to collaborate on <strong>Backend Development</strong><br>
