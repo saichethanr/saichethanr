@@ -11,7 +11,7 @@
 💬 Ask me about <strong>Backend Development</strong><br>
 </div>
 <div align="center">
-## 🌐 Socials:
+<h1>🌐 Socials:</h1> 
 </div>
 <div align="center">
   <a href="https://x.com/saichethan">
@@ -19,7 +19,7 @@
   </a>
 </div>
 <div align="center">
-# 💻 Tech Stack:
+<h1># 💻 Tech Stack:</h1> 
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
