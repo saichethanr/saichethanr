@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'monospace', cursive; font-size: 48px;">Hi, I am Sai Chethan</h1>
-<p align="center" style="font-family: 'Brush Script MT', cursive; font-size: 24px;">A passionate backend dev</p>
+<p align="center" style="font-family: 'Brush Script MT', cursive; font-size: 24px;">A passionate backend developer</p>
 
 <div align="center">
 <h1> <strong> 💫 About Me: </strong></h1> 
